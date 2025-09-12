@@ -6,7 +6,6 @@
 
 **Bypass Rophim VIP** là công cụ mạnh mẽ giúp bạn tận hưởng trải nghiệm VIP trên Rophim hoàn toàn miễn phí! Không quảng cáo, coin không giới hạn, và đặc quyền admin. Tất cả được gói gọn trong một userscript dễ cài đặt qua Tampermonkey.
 
-**Từ khóa**: rổ phim VIP miễn phí, rophim VIP free, bypass rophim, rophim no ads, rophim không quảng cáo.
 
 <img width="1870" height="861" alt="image" src="https://github.com/user-attachments/assets/41329834-26f8-4c81-bac1-8c7b18e11853" />
 
