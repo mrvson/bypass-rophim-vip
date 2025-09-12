@@ -8,6 +8,9 @@
 
 **Từ khóa**: rổ phim VIP miễn phí, rophim VIP free, bypass rophim, rophim no ads, rophim không quảng cáo.
 
+<img width="1870" height="861" alt="image" src="https://github.com/user-attachments/assets/41329834-26f8-4c81-bac1-8c7b18e11853" />
+
+
 ## 🚀 Tính năng
 - **Mở khóa VIP**: Truy cập toàn bộ nội dung VIP trên Rophim.
 - **Coin không giới hạn**: Sử dụng 999,999,999 coin để xem phim thoải mái.
