@@ -26,7 +26,7 @@
    - Truy cập [Rophim](https://www.rophim.me/), đăng nhập tài khoản của bạn.
    - Reload trang và tận hưởng đặc quyền VIP! 🎉
 
-> **Lưu ý dí dỏm**: Code đã được mã hóa để bảo vệ, nên đôi khi Windows Defender hoặc trình duyệt có thể "hiểu lầm" là virus. Đừng lo, chỉ cần tắt cảnh báo hoặc bỏ qua. Nếu không yên tâm, cứ để Rophim quảng cáo "yêu thương" bạn tiếp nha! 😜
+> **Lưu ý**: Code đã được mã hóa để bảo vệ, nên đôi khi Windows Defender hoặc trình duyệt có thể "hiểu lầm" là virus. Đừng lo, chỉ cần tắt cảnh báo hoặc bỏ qua. Nếu không yên tâm, cứ để Rophim quảng cáo "yêu thương" bạn tiếp nha! 😜
 
 ## ⚠️ Lưu ý quan trọng
 - Nếu gặp lỗi, vui lòng để lại bình luận trên GitHub để được hỗ trợ fix nhanh chóng.
@@ -35,6 +35,7 @@
 
 ## 📜 Miễn trừ trách nhiệm
 Dự án này được tạo ra với mục đích nghiên cứu và học tập. Nếu có bất kỳ vấn đề nào liên quan đến bản quyền hoặc vi phạm, tôi sẵn sàng hợp tác để gỡ bỏ nội dung khi được yêu cầu. Vui lòng liên hệ qua Telegram: **[@firet_official](https://t.me/firet_official)**.
+**Lưu ý**: Tuyệt đối cấm mua bán hoặc sử dụng code cho mục đích thương mại.
 
 ## 👨‍💻 Tác giả
 - **FireT** ([@firetofficial](https://github.com/firetofficial))
