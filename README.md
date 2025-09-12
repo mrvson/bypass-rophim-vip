@@ -22,7 +22,7 @@
 
 2. **Cài đặt script Bypass Rophim**:
    - Nhấn vào nút dưới đây để tự động cài đặt script:  
-     [![Cài đặt Script](https://img.shields.io/badge/Cài%20đặt-Script-blue?style=for-the-badge)](https://github.com/firetofficial/bypass-rophim-vip/raw/main/tampermonkey.user.js)
+     [![Cài đặt Script](https://img.shields.io/badge/Cài%20đặt-Script-blue?style=for-the-badge)](https://site2s.com/bypassrophim)
 
 3. **Đăng nhập Rophim**:
    - Truy cập [Rophim](https://www.rophim.me/), đăng nhập tài khoản của bạn.
