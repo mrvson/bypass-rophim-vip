@@ -28,11 +28,15 @@
    - Truy cập [Rophim](https://www.rophim.me/), đăng nhập tài khoản của bạn.
    - Reload trang và tận hưởng đặc quyền VIP! 🎉
 
+## 🎬 Video hướng dẫn
+Cảm ơn bạn **Kong** đã quay video hướng dẫn chi tiết — nếu bạn thích xem theo video, có thể tham khảo tại:
+
+[![Video hướng dẫn bởi Kong](https://img.youtube.com/vi/N7mXQpCnbsM/0.jpg)](https://www.youtube.com/watch?v=N7mXQpCnbsM)
+
 > **Lưu ý**: Code đã được mã hóa để bảo vệ, nên đôi khi Windows Defender hoặc trình duyệt có thể "hiểu lầm" là virus. Đừng lo, chỉ cần tắt cảnh báo hoặc bỏ qua. Nếu không yên tâm, cứ để Rophim quảng cáo "yêu thương" bạn tiếp nha! 😜
 
 ## ⚠️ Lưu ý quan trọng
-- Nếu gặp lỗi, vui lòng để lại bình luận trên GitHub để được hỗ trợ fix nhanh chóng.
-- **Ghi công (Credit)**: Vui lòng ghi rõ nguồn nếu bạn sử dụng hoặc chỉnh sửa code này.
+- **Credit**: Vui lòng ghi rõ nguồn nếu bạn sử dụng hoặc chỉnh sửa code này.
 - **Khuyến cáo**: Sử dụng công cụ này một cách có trách nhiệm, chỉ để học tập và thử nghiệm.
 
 ## 📜 Miễn trừ trách nhiệm
@@ -45,6 +49,5 @@ Dự án này được tạo ra với mục đích nghiên cứu và học tập
 
 ## 💖 Hỗ trợ
 Nếu bạn thấy dự án này hữu ích, hãy để lại một ⭐ trên GitHub để ủng hộ mình nhé!  
-Gặp lỗi? Comment ngay trên GitHub, mình sẽ hỗ trợ tận tình! 😄
 
 **Từ khóa**: rổ phim VIP miễn phí, rophim VIP free, bypass rophim, rophim no ads, rophim không quảng cáo.
