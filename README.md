@@ -1,8 +1,8 @@
 # Bypass Rophim VIP
 
 ![Rophim VIP Banner](https://img.shields.io/badge/Rophim-VIP%20Free-brightgreen?style=for-the-badge&logo=javascript)
-![Version](https://img.shields.io/badge/Version-1.1-blue?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-orange?style=flat-square)
+![Version](https://img.shields.io/badge/Version-1.2-blue?style=flat-square)
+
 
 **Bypass Rophim VIP** là công cụ mạnh mẽ giúp bạn tận hưởng trải nghiệm VIP trên Rophim hoàn toàn miễn phí! Không quảng cáo, coin không giới hạn. Tất cả được gói gọn trong một userscript dễ cài đặt qua Tampermonkey.
 
