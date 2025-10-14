@@ -33,8 +33,22 @@ Cảm ơn bạn **Kong** đã quay video hướng dẫn chi tiết — nếu b�
 
 [![Video hướng dẫn bởi Kong](https://img.youtube.com/vi/N7mXQpCnbsM/0.jpg)](https://www.youtube.com/watch?v=N7mXQpCnbsM)
 
-> **Lưu ý**: Code đã được mã hóa để bảo vệ, nên đôi khi Windows Defender hoặc trình duyệt có thể "hiểu lầm" là virus. Đừng lo, chỉ cần tắt cảnh báo hoặc bỏ qua. Nếu không yên tâm, cứ để Rophim quảng cáo "yêu thương" bạn tiếp nha! 😜
 
+---
+
+## ⚠️ Giải thích Kỹ thuật & Cam kết (Quan trọng)
+
+Để giải đáp các thắc mắc về mã nguồn, tôi cam kết dự án này phi lợi nhuận và phục vụ mục đích học tập.
+
+1.  **Về Mã hóa Mã nguồn (Code Obfuscation):**
+    * Mã nguồn được mã hóa **không phải để ẩn chứa mã độc**. Mục đích là **bảo vệ công sức** và **ngăn chặn việc re-up, sửa đổi tác giả** nhằm trục lợi hoặc nhận vơ công cụ miễn phí này.
+    * Do quá trình mã hóa, đôi khi trình duyệt hoặc phần mềm diệt virus có thể đưa ra cảnh báo. Nếu không an tâm, bạn nên bỏ qua script.
+2.  **Về Cơ chế Tắt từ xa (Anti-Abuse Switch):**
+    * Script có tích hợp một cơ chế kiểm tra đơn giản để **ngăn chặn việc lạm dụng, mua bán** hoặc sử dụng cho mục đích thương mại.
+    * Đây là cơ chế để tác giả có thể **vô hiệu hóa nhanh chóng** script nếu có yêu cầu chính thức từ Rophim hoặc xảy ra tranh chấp.
+    * **CAM KẾT:** Cơ chế này **KHÔNG** thu thập bất kỳ dữ liệu cá nhân nào của người dùng.
+
+---
 ## ⚠️ Lưu ý quan trọng
 - **Credit**: Vui lòng ghi rõ nguồn nếu bạn sử dụng hoặc chỉnh sửa code này.
 - **Khuyến cáo**: Sử dụng công cụ này một cách có trách nhiệm, chỉ để học tập và thử nghiệm.
