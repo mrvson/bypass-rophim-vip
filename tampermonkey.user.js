@@ -5,6 +5,9 @@
 // @description  Bypass VIP + Coin trên Rophim
 // @author       FireT
 // @require      https://raw.githubusercontent.com/firetofficial/bypass-rophim-vip/refs/heads/main/rophim_vip.js
+// @homepageURL   https://github.com/firetofficial/bypass-rophim-vip
+// @downloadURL   https://raw.githubusercontent.com/firetofficial/bypass-rophim-vip/refs/heads/main/tampermonkey.user.js
+// @updateURL     https://raw.githubusercontent.com/firetofficial/bypass-rophim-vip/refs/heads/main/tampermonkey.user.js
 // @match        *://www.rophim.me/*
 // @match        *://www.rophim.mx/*
 // @match        *://www.rophim.li/*
