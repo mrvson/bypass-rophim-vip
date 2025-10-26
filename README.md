@@ -28,7 +28,7 @@
    - Truy cập [Rophim](https://www.rophim.me/), đăng nhập tài khoản của bạn.
    - Reload trang và tận hưởng đặc quyền VIP! 🎉
      
-[![Site2S](https://github.com/user-attachments/assets/c47b64ac-b7a1-47f5-b281-cd6d708c8bc2)](https://site2s.com/ref/concobebe)
+[![Site2S](https://github.com/user-attachments/assets/c47b64ac-b7a1-47f5-b281-cd6d708c8bc2)](https://site2s.com/ref/firet)
 ## 🎬 Video hướng dẫn
 Cảm ơn bạn **Kong** đã quay video hướng dẫn chi tiết — nếu bạn thích xem theo video, có thể tham khảo tại:
 
